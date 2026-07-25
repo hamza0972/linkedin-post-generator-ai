@@ -5,13 +5,12 @@ Generate engaging and professional LinkedIn posts in seconds using <strong>Groq 
 </p>
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![Gradio](https://img.shields.io/badge/Gradio-UI-orange)
-![Groq](https://img.shields.io/badge/Groq-API-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge&logo=gradio" />
+  <img src="https://img.shields.io/badge/API-AlQuran%20Cloud-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" />
 </p>
+
 
 ---
 
