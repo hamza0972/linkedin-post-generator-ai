@@ -33,15 +33,14 @@ The application is built with **Python**, **Gradio**, and the **Groq API**, prov
 
 # 📷 Preview
 
+<p align="center">
+  <img src="assetes/linkedin .png" width="900">
+</p>
+
 ```text
 assets/
 └── screenshot.png
 ```
-
-```markdown
-![App Screenshot]()
-```
-
 ---
 
 # 🌐 Live Demo
