@@ -34,17 +34,13 @@ The application is built with **Python**, **Gradio**, and the **Groq API**, prov
 
 # 📷 Preview
 
-> **Add your application screenshot here**
-
 ```text
 assets/
 └── screenshot.png
 ```
 
-Then display it using:
-
 ```markdown
-![App Screenshot](assets/screenshot.png)
+![App Screenshot]()
 ```
 
 ---
