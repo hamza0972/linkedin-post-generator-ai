@@ -15,7 +15,7 @@ Generate engaging and professional LinkedIn posts in seconds using <strong>Groq 
 
 ---
 
-# 📖 About
+# 📝 About
 
 **LinkedIn Post Generator AI** is an AI-powered web application that helps users create engaging, professional LinkedIn posts in seconds.
 
